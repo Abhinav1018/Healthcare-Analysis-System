@@ -52,10 +52,10 @@ As seen in the confusion matrix, the model has a high Specificity (99.6%), corre
 #### SVM - Support Vector Machine
 <img src = "https://github.com/Abhinav1018/Online-Recharge-System/blob/main/images/ss18.PNG"><br><br>
 
-Comparison of Model Performance and Accuracy 
+### Comparison of Model Performance and Accuracy 
 <img src = "https://github.com/Abhinav1018/Online-Recharge-System/blob/main/images/ss19.PNG"><br><br>
 The model with the best accuracy is Random Forest with an accuracy of 81.81% <br>
 
 <img src = "https://github.com/Abhinav1018/Online-Recharge-System/blob/main/images/ss20.PNG"><br><br>
 As seen in the confusion matrix, the model has a high Specificity (68%), correctly predicting patients without diabetes, but has a Sensitivity (correctly predicting diabetes) of 93.5%<br>
-<p>
+</p>
